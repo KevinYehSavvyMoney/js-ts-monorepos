@@ -7,7 +7,8 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noImplicitReturns": true,
-    "declaration": true
+    "declaration": true,
+    "conosite": true,
   },
   "exclude": ["**/node_modules/**", "COURSE_FILES/**"]
 }
